@@ -1,14 +1,15 @@
 /*
- * This program outputs programming
- * is like building a multilingual puzzle
+ * The file's name is 4-puts.c
  */
-/*a header file to use some predefined functions*/
+
 
 #include <stdio.h>
 
-/**
- * there shoukd always be a
- * main function and it should return 0
+/*
+ *the main function outputs programming is like
+ *a multilingual puzzle
+
+ * main returns return 0
  */
 
 int main(void)
