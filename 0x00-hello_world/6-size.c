@@ -2,7 +2,7 @@
  *the program prints out different sizes of data types
  */
 
-#inlcude <stdio.h>
+#include <stdio.h>
 
 int main(void)
 {
@@ -13,5 +13,5 @@ int main(void)
 	printf("size of long int: %zu bytes" , sizeof(long int));
 	printf("size of long long int: %zu bytes" , sizeof(long long int));
 
-	return 0;
+	return (0);
 }
