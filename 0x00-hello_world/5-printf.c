@@ -1,5 +1,5 @@
 /*
- *This program outputs something assigned by the alx team using the printf statement 
+ * File name is 5-printf.c
  */
 
 #include <stdio.h>
