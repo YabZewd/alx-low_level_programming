@@ -4,6 +4,13 @@
 
 #include <stdio.h>
 
+/*
+ * main -  outputs something
+ * assigned by the alx team using the printf statement
+ *
+ *Return: 0.
+ */
+
 int main(void)
 {
 	
