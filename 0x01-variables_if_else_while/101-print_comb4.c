@@ -1,6 +1,6 @@
 /*
  * File: 101-print_comb4.c
- * coder: The Submitter
+ * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
@@ -25,11 +25,10 @@ int main(void)
 				putchar((digit2 % 10) + '0');
 				putchar((digit3 % 10) + '0');
 
-				if (digit1 < 7 && digit2 < 8 && digit3 < 9)
-				{		
-					putchar(',');
-					putchar(' ');
-				}
+				if (digit1 == 7 && digit2 == 8 && digit3 == 9)
+				continue;
+				putchar(',');
+				putchar(' ');
 			}
 		}
 	}
