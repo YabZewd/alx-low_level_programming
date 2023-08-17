@@ -1,8 +1,8 @@
 #include "variadic_functions.h"
 #include <stdarg.h>
 #include <stdio.h>
+
 /**
- *
  * print_numbers - prints numbers followed by a new line
  * @separator: String to be printed between numbers
  * @n: number of variadic arguments
